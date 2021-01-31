@@ -3,4 +3,4 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-cayman
-title: Camilla Scolini's personal webpage
+title: Camilla Scolini
